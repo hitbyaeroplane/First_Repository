@@ -7,7 +7,7 @@ As we move through the year, there are topics we must cover, an additional topic
 
 Not all classes are available every year. The courses taught are based on the interest level shown on course selection sheets. There are some years where Web Design doesn't make. If you intend to take it next year, you may want to convince friends and other people to take it to to ensure there's enough.
 
-![alt text](https://shawnwegs.github.io/Starting-Class/exy.png "No") I understand
+![alt text](checky.png "yes") I understand
 
 ### Classroom Expectations:
 The Balcony Mac Lab is a district computer lab, and as such has some policies that are set by the district.
